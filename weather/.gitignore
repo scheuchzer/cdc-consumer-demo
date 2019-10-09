@@ -1,0 +1,9 @@
+*.iml
+target
+.idea
+/.project
+/global-groovy.log
+/soapui.log
+/soapui-errors.log
+/.settings/
+target/
